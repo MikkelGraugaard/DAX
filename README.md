@@ -8,7 +8,7 @@ Newest_PC = IF(
 ) = Udskiftning_Reference[retirement_date].[Date], 1, 0)
 ```
 
-**Indentifying if the number of computers the user has**
+**Indentifying the number of computers the user have**
 ```
 Number_Of_PC = CALCULATE(
     COUNTA(Udskiftning_Reference[serial_number]),
