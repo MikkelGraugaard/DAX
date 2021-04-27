@@ -1,4 +1,4 @@
-# DAX examples from the Power BI project
+# DAX examples from work Power BI project
 
 **Indentifying if the specific computer is the newest the user has**
 ```
